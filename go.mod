@@ -56,8 +56,8 @@ require (
 	github.com/vinyldns/go-vinyldns v0.9.16
 	github.com/vultr/govultr/v2 v2.16.0
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
-	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
-	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
+	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
+	golang.org/x/oauth2 v0.0.0-20220630143837-2104d58473e0
 	golang.org/x/time v0.0.0-20210611083556-38a9dc6acbc6
 	google.golang.org/api v0.20.0
 	gopkg.in/ns1/ns1-go.v2 v2.6.2
@@ -118,10 +118,10 @@ require (
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/tools v0.1.6-0.20210726203631-07bc1bf47fb2 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
-	google.golang.org/appengine v1.6.5 // indirect
+	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20200305110556-506484158171 // indirect
 	google.golang.org/grpc v1.27.1 // indirect
-	google.golang.org/protobuf v1.27.1 // indirect
+	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
